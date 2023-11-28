@@ -20,12 +20,12 @@ Step 2 - Creation of Custom Dashboard - Playstation Global Sales
 
 
 
-Step 2 - Creation of Custom Dashboard - Nintendo Global Sales
+Step 3 - Creation of Custom Dashboard - Nintendo Global Sales
 ![Nintendo Gaming Visualisation Slot](https://github.com/VnumpyZ806/Tableau-Tables-and-Dashboards/assets/93555279/a46b0b28-7fbf-41ae-9ef0-e745bfd177d2)
 
 
 
 
-Step 3 - Creation of Custom Dashboard - Xbox Global Sales
+Step 4 - Creation of Custom Dashboard - Xbox Global Sales
 ![Xbox Gaming Visualisation Slot](https://github.com/VnumpyZ806/Tableau-Tables-and-Dashboards/assets/93555279/f23a834a-5447-41db-a065-7a776dc49d75)
 
