@@ -14,7 +14,7 @@ Step 1 - Creation of Global Sales Breakdown bar chart and line chart
 
 
 
-Step 2 - Creation of Custom Dashboard - Playstation Global Sales
+Step 2 - Creation of Custom Dashboard - PlayStation Global Sales
 ![Playstation Gaming Visualisation Slot](https://github.com/VnumpyZ806/Tableau-Tables-and-Dashboards/assets/93555279/fd1bc460-dd1d-4c36-9602-282487e8fb76)
 
 
